@@ -1,0 +1,18 @@
+{
+  "name": "frontend-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev-sass": "sass scss:assets/css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.71.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.18"
+  }
+}
